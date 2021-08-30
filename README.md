@@ -1,12 +1,4 @@
 ## Oiii! Eu sou o Diego C. Nascimento ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-### Abstract
-### Sobre mim
-
-- 👨‍💻 Engenheiro de Software Jr.
-- 💙 Interesse: Java, Kotlin, Spring Boot, html, css, javaScript, angular, c# , .net e ASP.net.
-- 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker .
-- 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER O MELHOR ESPADACHIN DO MUNDO" e hoje sou engenheiro de software, nada haver. Fã do anime One Piece, bora assistir uns filler juntos ? 
-- 🎮 Gosta de jogar League Of Legends? É só chamar, vamos subir de patente juntos ou não hehehe
 
 
  <div>
