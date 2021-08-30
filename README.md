@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Diego C. Nascimento
+## Oiii! Eu sou o Diego C. Nascimento ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <div>
   <a href="https://github.com/Diekitetsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DieKitetsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
